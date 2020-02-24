@@ -21,8 +21,8 @@ eureka:
       defaultZone: http://admin:${jhipster.registry.password}@localhost:8761/eureka/
 
 firma:
-    property1: getafe
-    property2: real murcia
+    property1: Celta
+    property2: Alcorcón
 
 certificado:
     alias: le-22590ca3-218e-4d7e-8d7e-7c946be7534b
