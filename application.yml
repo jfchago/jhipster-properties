@@ -13,3 +13,17 @@ jhipster:
         authentication:
             jwt:
                 secret: bXktc2VjcmV0LXRva2VuLXRvLWNoYW5nZS1pbi1wcm9kdWN0aW9uLWFuZC10by1rZWVwLWluLWEtc2VjdXJlLXBsYWNl
+
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://admin:${jhipster.registry.password}@192.168.1.97:8761/eureka/
+
+firma:
+    property1: getafe
+    property2: real sociedad
+
+certificado:
+    alias: le-22590ca3-218e-4d7e-8d7e-7c946be7534b
+
